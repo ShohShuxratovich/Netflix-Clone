@@ -2,7 +2,7 @@
 //  HomeVC.swift
 //  Netflix Clone
 //
-//  Created by Uyg'un Tursunov on 23/08/23.
+//  Created by Shohjahon Sadulloyev
 //
 
 import UIKit
